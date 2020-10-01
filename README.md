@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on becoming the best developer I can be.
 - 🌱 I’m currently learning React, creating JAM stacks and much more.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I alway laugh at JSON.statham().
+
+### Check out my portfolio @
+
+[V-webDev](https://v-webdev.com/projects)
