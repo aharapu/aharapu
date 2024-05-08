@@ -6,4 +6,4 @@
 
 ### Check out my portfolio @
 
-[V-webDev](https://v-webdev.com/projects)
+[V-webDev](https://valle.netlify.app/)
